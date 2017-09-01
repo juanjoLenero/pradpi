@@ -5,7 +5,7 @@
             [naive-xml-reader.core :refer [read-xml]]
             [org.httpkit.client :as http]))
 
-(def ^:const host "webservices.amazon.com")
+(def ^:const host "webservices.amazon.com.mx")
 (def ^:const path "/onca/xml")
 (def ^:const version "2013-08-01")
 
